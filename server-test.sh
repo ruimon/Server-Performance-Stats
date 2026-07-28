@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "dadad"#!/bin/bash
-
 PS3="-----------------------------------------------------
 Select the required functionality (1-5, or 6 to exit):"
 
